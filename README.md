@@ -11,15 +11,21 @@ I am thrilled to share that I have been selected for a *Python Programming Inter
 - *Position:* Python Programming Intern 💻<br>
 - *Duration:* 4 Weeks 📅<br>
 - *Start Date:* June 10, 2024 ⏳<br>
-<br><br><br>
+<br><br>
+
 🛠️ *Tasks and Projects:*<br>
 - *Basic Projects (Silver Certificate):*<br>
   1. Number-Guessing Game 🎲<br>
   2. Currency Converter 💱<br>
   3. Password Generator 🔐<br><br>
 - *Intermediate Project (Mandatory for Gold Certificate):*
-  - Alarm Clock ⏰<br>
- <img src="https://github.com/Csemrkiran/CODXO/blob/main/TASKS.jpeg"/><br>
+  - Alarm Clock ⏰
+<br>
+
+ <img src="https://github.com/Csemrkiran/CODXO/blob/main/TASKS.jpeg"/>
+
+<br>
+
 🎁 *Benefits:*
 - Internship Certificate to enhance my resume 📜<br>
 - CodXo goodies 🎁<br>
